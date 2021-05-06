@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>DogeTankMall</title>
+<meta content="" name="description">
+<meta content="" name="keywords">
+
+<link rel="icon" href="<%= BASE_URL %>favicon.ico">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+<link href="assets/vendor/aos/aos.css" rel="stylesheet">
+<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+<link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+<link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+<link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+<link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+<link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+<body>
+
+<header id="header" class="fixed-top d-flex align-items-center">
+<div class="container d-flex align-items-center justify-content-between">
+<nav id="navbar" class="navbar">
+<ul>
+<li><a class="getstarted scrollto" href="#token">Get Started</a></li>
+<li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+
+<li><a class="nav-link scrollto" href="#about">Vision & Mission</a></li>
+
+
+<li class="dropdown"><a href="#"><span>Links</span> <i class="bi bi-chevron-down"></i></a>
+<ul>
+
+<li><a href="https://t.me/DogetankCommunity" target="_blank">Telegram</a></li>
+<li><a href="https://twitter.com/Doge_tank" target="_blank">Twitter</a></li>
+<li><a href="#">CoinMarketCap (Coming soon)</a></li>
+<li><a href="#">CoinGecko (Coming soon)</a></li>
+<li><a href="https://bscscan.com/token/0xFB0e757E986376D3dFaaC2b6c33F535893feb244" target="_blank">BSCScan</a></li>
+</ul>
+</li>
+</ul>
+<i class="bi bi-list mobile-nav-toggle"></i>
+</nav>
+</div>
+</header>
+
+<section id="hero" class="d-flex align-items-center">
+<div class="container">
+<div class="row">
+<div id="token-img" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200" style="margin: 0 auto!important;">
+<img src="assets/img/logo.png" class="img-fluid animated" alt="">
+</div>
+</div>
+<div class="row">
+<div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" style="margin: 0 auto!important;">
+<h1 data-aos="fade-up">DogeTankMall</h1>
+</div>
+<div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" style="margin: 0 auto!important;">
+<h4 data-aos="fade-up">Think DogeTankMall as a non-fungible token (NFT) that cannot be replaced and will become meme standard just like DogeCoin. DogeTankMall is 100% community-driven and a meme protection for all creators</h4>
+</div>
+</div>
+</div>
+</section>
+<main id="main">
+
+<section id="clients" class="clients clients">
+<div class="container">
+<div class="row">
+<div class="col-lg-2 col-md-4 col-6">
+<a id="link_pancakeswap" href="#">
+<img src="assets/img/pancakeswap.png" class="img-fluid" alt="" data-aos="zoom-in">
+</a>
+</div>
+<div class="col-lg-2 col-md-4 col-6">
+<a id="link_telegram" href="https://t.me/DogetankCommunity" target="_blank">
+<img src="assets/img/telegram.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
+</a>
+</div>
+<div class="col-lg-2 col-md-4 col-6">
+<a id="link_twitter" href="https://twitter.com/Doge_tank" target="_blank">
+<img src="assets/img/twitter.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
+</a>
+</div>
+<div class="col-lg-2 col-md-4 col-4">
+<a id="link_cmc" href="#">
+<img src="assets/img/coinmarketcap.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
+</a>
+</div>
+<div class="col-lg-2 col-md-4 col-4">
+<a id="link_coingecko" href="#">
+<img src="assets/img/coingecko.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
+</a>
+</div>
+<div class="col-lg-2 col-md-4 col-6">
+<a id="link_bscscan" href="https://bscscan.com/token/0xFB0e757E986376D3dFaaC2b6c33F535893feb244" target="_blank">
+<img src="assets/img/bscscan.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+<section id="about" class="about">
+<div class="container">
+<div class="section-title" data-aos="fade-up">
+<h2>Vision & Mission</h2>
+</div>
+<div class="row" data-aos="fade-up">
+<p>
+The reality is $DOGET cannot be sustainable simply based on hype and for it to survive we are building a recognizable brand, supported by its community. We all have contributed time and resources to create music, memes, official merchandise, NFTs, applications and much more.
+<br />Further, Dogetank's goal is not just making the token valuable and its holders monetarily happy, but sharing its success with those who need most. We have active partnerships with charities which we donate to as $DOGET grows.
+<br />$DOGET is here to stay, if you follow official announcements you will not be disappointed with the constant stream of new developments taking place.
+</p>
+</div>
+</div>
+<section>
+
+
+
+
+</main>
+
+<footer id="footer">
+<div class="container">
+<div class="row d-flex align-items-center">
+<div class="col-lg-3 text-lg-left text-center">
+<div class="copyright">
+<strong>DogeTankMall</strong>
+</div>
+</div>
+<div class="col-lg-6">
+<nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
+
+<a href="#about" class="scrollto">Vision & Mission</a>
+
+
+<a href="#">CoinMarketCap (Coming soon)</a>
+<a href="#">CoinGecko (Coming soon)</a>
+</nav>
+</div>
+</div>
+</div>
+</footer>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><img src="assets/img/arrow-up-short.svg"></a>
+
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+<script src="assets/vendor/purecounter/purecounter.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
